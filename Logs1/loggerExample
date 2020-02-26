@@ -1,0 +1,16 @@
+2020-02-26 22:18:44 INFO  Estimate:75 - Into Estimate Class
+2020-02-26 22:18:44 INFO  Estimate:76 - Into Main() of Estimate Class
+2020-02-26 22:18:44 INFO  Estimation:19 - Into Estimation Class
+2020-02-26 22:18:44 INFO  Estimate:84 - Estimate
+2020-02-26 22:19:41 INFO  Estimation:24 - Into Estimate_House_price method
+2020-02-26 22:20:05 INFO  Compute:86 - Into compute Class
+2020-02-26 22:20:05 INFO  Compute:87 - Into Main() of compute Class
+2020-02-26 22:20:05 INFO  CalculationSIandPI:23 - Into CalculationSIandPI Class
+2020-02-26 22:20:26 INFO  Compute:86 - Into compute Class
+2020-02-26 22:20:26 INFO  Compute:87 - Into Main() of compute Class
+2020-02-26 22:20:26 INFO  CalculationSIandPI:23 - Into CalculationSIandPI Class
+2020-02-26 22:20:33 INFO  Compute:116 - case1
+2020-02-26 22:20:41 INFO  CalculationSIandPI:28 - Into Simple_Interest method
+2020-02-26 22:20:45 INFO  Compute:131 - case2
+2020-02-26 22:20:52 INFO  CalculationSIandPI:41 - Into Compound_Interest_yearly method
+2020-02-26 22:20:55 INFO  Compute:188 - End of Main()
